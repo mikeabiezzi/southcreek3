@@ -53,7 +53,7 @@ Parking is permitted in designated parking areas only on South Creek III propert
 Rules:
 
 1. Parking in common area parking lots is restricted to RESIDENTS ONLY.  Residents should ask their guests to park their cars elsewhere (in garages or along Tantra Drive).
-1. Trailers, boats, wagons, or any non­motorized vehicle, and recreational vehicles may not be parked in the common parking area lots. They should be stored in the resident's garage or at another location. If a resident owns a motorcycle in addition to an automobile, the motorcycle can be parked at the front of the common area parking space in front of the other vehicle.
+1. Trailers, boats, wagons, or any non-motorized vehicle, and recreational vehicles may not be parked in the common parking area lots. They should be stored in the resident's garage or at another location. If a resident owns a motorcycle in addition to an automobile, the motorcycle can be parked at the front of the common area parking space in front of the other vehicle.
 1. Vehicles 1) parked on blocks, 2) inoperative on streets (flat tires, for example), are subject to a warning that the situation be remedied within two weeks or the vehicle will be towed within a month.
 1. Violations of any of the rules # 1–4 are subject to towing at the owner's expense. Violations may be reported to the Association Manager or any member of the Board of Directors. Special requests may be directed to the Board of Directors or the Manager.
 
@@ -106,7 +106,7 @@ All areas of the property that are commonly owned and jointly contribute to the 
 ## <a name="limited common-property"></a>Limited Common Property
 
 Limited common property is defined as spaces commonly owned by the association, but designated for use by an individual or limited group of owners. Every unit in SC3 is allotted a limited common space, with a perimeter bound by the original construction of the outside fence and the exterior surface of the building, designated as a ‘fenced yard.’ Owners and residents have discretionary use of the fenced yard designated as the limited common element for the given unit. However, within the fenced yard, no items may be invasively attached to the exterior of the building (no nails or screws) and no siding may be cut or damaged. Owners are free to change landscaping within their fenced yard but may not change, adjust or modify any structural retaining walls that are present for the common good. Man-made features may be no taller than 70” total or 24” taller than the approved 46” fence. Man-made features can only be attached to the fence at the owner's discretion. All landscaping, repairs, maintenance and costs associated with the limited common space is the sole responsibility of the owner. Any item within a fenced yard that is in violation of common elements (e.g., shelf screwed to the wall, nails in siding, pet door through wall) may be removed without notice at the board's discretion and all associated expenses will be the owner's sole responsibility.
-­­­Still in Progress­­­
+---Still in Progress---
 
 [^ back to top](#)
 
@@ -138,7 +138,7 @@ Trim color: Sable
 
 ## <a name="pets-on property"></a>Pets on Property
 
-There are many pets on the property, in addition to wildlife. Pets are the sole responsibility of their owner and must not disrupt the quiet enjoyment of the community. Owners are responsible for maintaining control of their pets at all times to prevent barking noise, avoid animals wandering unattended, at­large and pick­up all feces.
+There are many pets on the property, in addition to wildlife. Pets are the sole responsibility of their owner and must not disrupt the quiet enjoyment of the community. Owners are responsible for maintaining control of their pets at all times to prevent barking noise, avoid animals wandering unattended, at-large and pick-up all feces.
 
 [^ back to top](#)
 
@@ -178,7 +178,7 @@ NOTE: This list shows whether the Owner or the Association is responsible for th
 - Patios, balconies, decks, yards and surrounding fence, gate (Declaration Secs. 1.10 and 4.04) - **Owner**
 - Improvements, alterations and betterments to patios, balconies, decks, balconies, yards as altered or improved by any owner (Declaration Sec. 4.04) - **Owner**
 - Doors, windows and frames (Declaration Sec. 4.03) - **Owner**
-- Fences which do not surround patio or yard area (Declaration Secs. 1.09 and 4.05) - **Association**
+- Fences which **do not** surround patio or yard area (Declaration Secs. 1.09 and 4.05) - **Association**
 - Solar panels on roof as reinstalled at the request of the Unit Owner served - **Owner**
 - Structural components including foundation, girders, beams and supports and structural walls (Declaration Secs. 1.09 and 4.05) - **Association**
 - Roof (Declaration Secs. 1.09 and 4.05) - **Association**
@@ -197,8 +197,8 @@ NOTE: This list shows whether the Owner or the Association is responsible for th
 - Interior surface of doors and windows (Declaration Sec. 4.03) - **Owner**
 - Glass (Declaration Sec. 4.03) - **Owner**
 - Internal installations (furnishings, equipment, carpet, cabinetry, appliances, wall coverings including drywall, plaster, paint, wallpaper and paneling, appliances, cupboards, bathroom fixtures, etc.) (Declaration Sec. 4.03) - **Owner**
-- Interior non­supporting walls (Declaration Sec. 4.03) - **Owner**
-- Ceilings ­ finished surface (Declaration Sec. 4.03) - **Owner**
+- Interior non-supporting walls (Declaration Sec. 4.03) - **Owner**
+- Ceilings - finished surface (Declaration Sec. 4.03) - **Owner**
 - Floor coverings including carpet, tile, vinyl, and hardwood (Declaration Sec. 4.03) - **Owner**
 - Drywall (Declaration Sec. 4.03) - **Owner**
 - Subflooring (Declaration Secs. 1.09 and 4.05) - **Association**
