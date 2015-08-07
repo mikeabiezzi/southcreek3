@@ -150,7 +150,7 @@ Can be installed through the front door and/or storm door of a unit, at the owne
 
 ## <a name="pet waste-disposal"></a>Pet Waste Disposal
 
-Pet waste disposal must be handled appropriately. Pet waste on common property must be picked up and properly disposed of, immediately. In addition to trash dumpsters in North and South waste collection areas, there are also 2 (soon 3) dog stations on the property at the Northeast, Southeast and Central corners of the property, along the property fence between SC3 and Bixby School. These stations have been recently replaced and are emptied regularly. SC3 will not stock bags but any extra plastic bags can be deposited or retrieved in the plastic bag dispensers to be reused for the disposal of pet waste.
+Pet waste disposal must be handled appropriately. Pet waste on common property must be picked up and properly disposed of, immediately. In addition to trash dumpsters in North and South waste collection areas, there are also 2 (soon 3) dog stations on the property at the Northeast, Southeast and Central corners of the property, along the property fence between SC3 and Bixby School. These stations have been recently replaced and are emptied regularly. SC3 will not stock bags at these stations, but any extra plastic bags may be deposited and/or retrieved by residents in the plastic bag dispensers to be used by other residents for the disposal of pet waste.
 
 [^ back to top](#)
 
