@@ -57,9 +57,9 @@ Rules:
 1. Parking in common area parking lots is restricted to RESIDENTS ONLY.  Residents should ask their guests to park their cars elsewhere (in garages or along Tantra Drive).
 1. Trailers, boats, wagons, or any non-motorized vehicle, and recreational vehicles may not be parked in the common parking area lots. They should be stored in the resident's garage or at another location. If a resident owns a motorcycle in addition to an automobile, the motorcycle can be parked at the front of the common area parking space in front of the other vehicle.
 1. Vehicles 1) parked on blocks, 2) inoperative on streets (flat tires, for example), are subject to a warning that the situation be remedied within two weeks or the vehicle will be towed within a month.
-1. Violations of any of the rules # 1–4 are subject to towing at the owner's expense. Violations may be reported to the Association Manager or any member of the Board of Directors. Special requests may be directed to the Board of Directors or the Manager.
+1. Each resident has the use of one assigned spot (either a garage or a numbered parking slot) and one un-numbered parking slot.
 
-Each resident has the use of one assigned spot (either a garage or a numbered parking slot) and one un-numbered parking slot. Vehicles beyond those limits are subject to immediate towing at the owner's expense.
+Violations of any of the rules # 1–4 are subject to towing at the owner's expense. Violations may be reported to the Association Manager or any member of the Board of Directors. Special requests may be directed to the Board of Directors or the Manager.
 
 [^ back to top](#)
 
