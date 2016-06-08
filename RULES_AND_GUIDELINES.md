@@ -59,6 +59,8 @@ Rules:
 1. Vehicles 1) parked on blocks, 2) inoperative on streets (flat tires, for example), are subject to a warning that the situation be remedied within two weeks or the vehicle will be towed within a month.
 1. Violations of any of the rules # 1–4 are subject to towing at the owner's expense. Violations may be reported to the Association Manager or any member of the Board of Directors. Special requests may be directed to the Board of Directors or the Manager.
 
+Each resident has the use of one assigned spot (either a garage or a numbered parking slot) and one un-numbered parking slot. Vehicles beyond those limits are subject to immediate towing at the owner's expense.
+
 [^ back to top](#)
 
 ## <a name="fence-requirements"></a>Fence Requirements 
